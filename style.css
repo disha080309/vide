@@ -1,0 +1,36 @@
+body
+{
+background-size: cover;
+}
+.heading{
+    width: 100%;
+    height: 50px;
+    margin-top: 0px;
+    font-size: 30px;
+    font-family: cursive;
+}
+#start{
+    width:100px;
+    height: 50px;
+    font-size: x-large;
+    font-family: serif;
+}
+#status{
+
+    background-color: bisque;
+    border: 3px solid  white;
+    width: 250px;
+    height: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#number_of_objects{
+    background-color:beige;
+    border: 3px solid  white;
+    width: 200px;
+    height: 50px;
+    font-family: 'Times New Roman', Times, serif; 
+}
+canvas{
+    border: 5px ridge black;
+    margin-top: 170px;
+}
